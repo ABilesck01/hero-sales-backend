@@ -3,7 +3,7 @@ import type { NextRequest } from "next/server";
 
 const ALLOWED_ORIGINS = new Set([
   "http://localhost:3001",
-  "https://SEU-FRONT.vercel.app",
+  "https://hero-sales-front.vercel.app",
   "https://seudominio.com",
 ]);
 
